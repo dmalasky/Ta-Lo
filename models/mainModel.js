@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 //data schema for the user
 const schema = mongoose.schema
 
-const employeeSchema = new schema({
+const userSchema = new schema({
 
     userName: {
         type: String,
@@ -40,6 +40,5 @@ const employeeSchema = new schema({
     },
 
 })
-
 
 //export schema for external use
