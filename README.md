@@ -75,6 +75,8 @@ tsu17001@byui.edu
 
 Daniel Malasky , BYU-Idaho, CIT 270
 
+mal19013@byui.edu
+
 
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
