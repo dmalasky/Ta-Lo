@@ -41,6 +41,5 @@ const userSchema = new schema({
 
 })
 
-//export schema for external use
-
+//export user model
 module.exports = mongoose.model('user', userSchema);
