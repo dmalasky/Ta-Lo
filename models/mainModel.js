@@ -1,12 +1,12 @@
-// setting up the user schema
+// setting up the user Schema
 
 //import mongoose
 const mongoose = require('mongoose');
 
-//data schema for the user
-const schema = mongoose.schema
+//data Schema for the user
+const Schema = mongoose.Schema;
 
-const userSchema = new schema({
+const userSchema = new Schema({
 
     userName: {
         type: String,
