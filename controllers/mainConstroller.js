@@ -1,3 +1,5 @@
+const User = require('../models/mainModel');
+
 //This function will create a user
 exports.createUser = async (req, res, next) => {
   // User data to be saved
